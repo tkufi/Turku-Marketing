@@ -1,0 +1,16 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Quality Assurance Information",
+      "description": "Quality Assurance (QA) is a process that ensures that products and services meet quality standards. QA Testers work with developers to find and fix bugs, and to ensure that products are reliable and user-friendly. QA is an important part of the development process, and it helps to ensure that products are of high quality.\n\nSharing this information outside of this Discord without the approval of a Senior Developer+ is not allowed and may result in removal from the community.",
+      "color": 16777214
+    },
+    {
+      "title": "Experiences",
+      "description": "- [tkufi_dev_lab](https://www.roblox.com/games/110840460571983/tkufi-dev-lab) \n- [tkufi_stg_qa](https://www.roblox.com/games/130734553649463/tkufi-stg-qa) \n- Turku, FI",
+      "color": 16777214
+    }
+  ],
+  "attachments": []
+}
