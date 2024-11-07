@@ -1,0 +1,24 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "description": "In all channels, please be as specific as possible when describing the bug or issue. The more information you provide, the easier it will be for us to fix the problem.",
+      "color": 16777214
+    },
+    {
+      "title": "Bug Triage",
+      "description": "Critical\n- Severe impact on core gameplay mechanics or essential features\n- Immediate action required\n- Example: Game crashes, severe lag issues, critical UI bugs affecting core functionality\n\nHigh\n- Significant impact on player experience or important features\n- Urgent fix needed\n- Example: Major performance issues, important gameplay mechanic bugs\n\nMedium\n- Noticeable impact on player experience or secondary features\n- Should be addressed promptly\n- Example: Moderate performance issues, important UX bugs not blocking core gameplay\n\nLow:\n- Minimal impact on gameplay experience or cosmetic issues\n- Can be addressed after higher priority items\n- Example: Minor visual glitches, non-essential feature bugs\n\nTrivial\n- No significant impact on gameplay or user experience\n- Can be addressed last\n- Example: Typos, minor layout issues not affecting gameplay",
+      "color": 16777214
+    },
+    {
+      "title": "Channel Functions",
+      "description": "<#1303778428520239176> - Please use this channel to share your ideas for new features or improvements to existing features.\n\n<#1303779639495360620> - Please use this channel to report any bugs or issues you find with gameplay.\n\n<#1303779731258343555> - Please use this channel to report any bugs or issues you find with maps.\n\n<#1303778761388458068> - Please use this channel to report any bugs or issues you find with the game's visuals.",
+      "color": 16777214
+    },
+    {
+      "description": "Thank you for your help in ensuring that we deliver a high-quality product!",
+      "color": 16777214
+    }
+  ],
+  "attachments": []
+}
