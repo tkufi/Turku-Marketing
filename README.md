@@ -9,3 +9,7 @@ All Tkurbx logos, branding guidelines and public assets can be found under [``/g
 Asset Icons used in Tkurbx experiences can be found under [``/asset_icons``](https://github.com/tkufi/Turku-Marketing/tree/main/asset_icons)
 
 Game & Group Advertisements can be found under [``/advertisements/``](https://github.com/tkufi/Turku-Marketing/tree/main/advertisements)
+
+## Credits
+
+All logos generated under ``/group/svg/`` and ``/group/png/`` have been created by [catubub](https://www.roblox.com/users/60653204)
